@@ -1,0 +1,59 @@
+.design{
+    margin-top: 10%;
+    margin-left: 32%;
+    background-color: #F24A72;
+    width: 35%;
+    padding: 30px 62px 30px 62px;
+    border-radius: 10px;
+}
+
+#textbar{
+    padding: 15px 100px;
+    border-radius: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.2rem;
+    border: 3px solid black;
+    margin-bottom: 10px;
+    margin-left: 22px;
+}
+
+.btn
+{
+    margin-left: 8px;
+    margin-top: 10px;
+    padding: 7px 20px;
+    background-color: #4D96FF;
+    border-radius: 10px;
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.text
+{
+    width: 77%;
+    font-weight: 900;
+    font-size: 1.5rem;
+    background-color: white;
+    padding: 10px 15px;
+    margin-left: -18px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.udd
+{
+    display: inline-block;
+    padding: 7px 20px;
+    font-size: 1.5rem;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: #ca0a0a;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
