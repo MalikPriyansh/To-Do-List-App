@@ -1,0 +1,22 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikPriyansh/To-Do-List-App.git"
+  },
+  "author": "Priyansh Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalikPriyansh/To-Do-List-App/issues"
+  },
+  "homepage": "https://github.com/MalikPriyansh/To-Do-List-App#readme",
+  "dependencies": {
+    "mongoose": "^6.3.4"
+  }
+}
